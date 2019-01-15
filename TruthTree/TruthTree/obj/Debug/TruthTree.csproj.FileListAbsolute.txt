@@ -1,0 +1,14 @@
+C:\Users\KesshoRyu\Documents\Visual Studio 2010\Projects\TruthTree\TruthTree\bin\Debug\TruthTree.exe
+C:\Users\KesshoRyu\Documents\Visual Studio 2010\Projects\TruthTree\TruthTree\bin\Debug\TruthTree.pdb
+C:\Users\KesshoRyu\Documents\Visual Studio 2010\Projects\TruthTree\TruthTree\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KesshoRyu\Documents\Visual Studio 2010\Projects\TruthTree\TruthTree\obj\Debug\TruthTree.Properties.Resources.resources
+C:\Users\KesshoRyu\Documents\Visual Studio 2010\Projects\TruthTree\TruthTree\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\KesshoRyu\Documents\Visual Studio 2010\Projects\TruthTree\TruthTree\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\KesshoRyu\Documents\Visual Studio 2010\Projects\TruthTree\TruthTree\obj\Debug\TruthTree.exe
+C:\Users\KesshoRyu\Documents\Visual Studio 2010\Projects\TruthTree\TruthTree\obj\Debug\TruthTree.pdb
+C:\Users\KesshoRyu\Documents\Visual Studio 2010\Projects\TruthTree\TruthTree\bin\Debug\QUT.ShiftReduceParser.dll
+C:\Users\KesshoRyu\Documents\Visual Studio 2010\Projects\TruthTree\TruthTree\obj\Debug\ResGen.read.1.tlog
+C:\Users\KesshoRyu\Documents\Visual Studio 2010\Projects\TruthTree\TruthTree\obj\Debug\ResGen.write.1.tlog
+C:\Users\KesshoRyu\Documents\Visual Studio 2010\Projects\TruthTree\TruthTree\obj\Debug\TruthTree.UI.BaseInputDialog.resources
+C:\Users\KesshoRyu\Documents\Visual Studio 2010\Projects\TruthTree\TruthTree\obj\Debug\TruthTree.UI.DecompositionInputDialog.resources
+C:\Users\KesshoRyu\Documents\Visual Studio 2010\Projects\TruthTree\TruthTree\obj\Debug\TruthTree.UI.MainWindow.resources

@@ -1,0 +1,12 @@
+C:\Users\KesshoRyu\Documents\Visual Studio 2010\Projects\TruthTree\TruthTree\bin\Debug\TruthTree.exe
+C:\Users\KesshoRyu\Documents\Visual Studio 2010\Projects\TruthTree\TruthTree\bin\Debug\TruthTree.pdb
+C:\Users\KesshoRyu\Documents\Visual Studio 2010\Projects\TruthTree\TruthTree\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KesshoRyu\Documents\Visual Studio 2010\Projects\TruthTree\TruthTree\obj\x86\Debug\TruthTree.Form1.resources
+C:\Users\KesshoRyu\Documents\Visual Studio 2010\Projects\TruthTree\TruthTree\obj\x86\Debug\TruthTree.Properties.Resources.resources
+C:\Users\KesshoRyu\Documents\Visual Studio 2010\Projects\TruthTree\TruthTree\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\KesshoRyu\Documents\Visual Studio 2010\Projects\TruthTree\TruthTree\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\KesshoRyu\Documents\Visual Studio 2010\Projects\TruthTree\TruthTree\obj\x86\Debug\TruthTree.exe
+C:\Users\KesshoRyu\Documents\Visual Studio 2010\Projects\TruthTree\TruthTree\obj\x86\Debug\TruthTree.pdb
+C:\Users\KesshoRyu\Documents\Visual Studio 2010\Projects\TruthTree\TruthTree\obj\x86\Debug\TruthTree.InputForm.resources
+C:\Users\KesshoRyu\Documents\Visual Studio 2010\Projects\TruthTree\TruthTree\obj\x86\Debug\TruthTree.TreeViewer.resources
+C:\Users\KesshoRyu\Documents\Visual Studio 2010\Projects\TruthTree\TruthTree\obj\x86\Debug\TruthTree.MainWindow.resources
